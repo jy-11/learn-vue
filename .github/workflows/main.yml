@@ -37,7 +37,7 @@ jobs:
         run: npm install
  
       - name: 构建项目
-        run: nmp run build
+        run: cnmp run build
  
       - name: 部署到PAGES
         uses: JamesIves/github-pages-deploy-action@v4
