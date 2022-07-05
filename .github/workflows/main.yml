@@ -6,9 +6,9 @@ name: 部署vue默认页面到github pages
 on:
   # Triggers the workflow on push or pull request events but only for the "master" branch
   push:
-    branches: [ "resou" ]
+    branches: [ "master" ]
   pull_request:
-    branches: [ "resou" ]
+    branches: [ "master" ]
 
 
 
